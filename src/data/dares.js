@@ -20,13 +20,13 @@ export const dares = {
     "Hop on one foot for 30 seconds",
     "Do your best impression of a famous singer",
     "Try to do a handstand against the wall for 30 seconds"
-
   ],
   medium: [
     "Call a friend and say something funny",
     "Dance for 1 minute",
     "Do your best impression of a celebrity",
     "Eat a spoonful of a condiment (ketchup, mustard, etc.)",
+    "Go to restroom and play the rest of the game without your underpants on.",
     "put your underpants on your head for the next 3 rounds.",
     "Tell a erotic while creating it for a minute.",
     "Do your best seductive dance for 30 seconds.",
@@ -37,9 +37,7 @@ export const dares = {
     "Dance with the next player for 1 minut, romantically.",
     "Give head massage to the next person for a minute.",
     "Message someone randomly that you hate cheeze",
-    
-    
-
+    "Sit on the lap of the previous player for next 5 rounds."
   ],
   hard: [
     "Reveal an embarrassing moment",
@@ -53,7 +51,7 @@ export const dares = {
     "Whisper a naughty secret to the next player.",
     "Share your wildest fantasy with the group.",
     "Give a sensual massage to the next player for 1 minute.",
-    "Order a condom and put it on a male player's....",
+    "Order a condom and convince the next person to wear it.",
     "Describe your most memorable intimate experience in vivid detail.",
     "Perform a seductive dance for the next player.",
     "Hold eye contact with the next player for 30 seconds while whispering something naughty.",
@@ -63,6 +61,7 @@ export const dares = {
     "cuddle the next player while rubbing their inner thigh for 1 minute.",
     "play next 4 rounds topless.",
     "Kiss the next player on the lips.",
+    "Kiss the next player on their back.",
     "Kiss the next player on their belly button.",
     "Put an ice cube in your underwear for one minute."
   ]
