@@ -8,6 +8,21 @@ export const truths = {
     "When did you fell in love for the first time?",
     "Have you ever had a crush on a teacher?",
     "Have you ever had a crush on a friend's sibling?",
+  "What is your favorite movie?",
+  "Do you sing in the shower?",
+  "What is your dream travel destination?",
+  "Have you ever skipped a meal on purpose?",
+  "What is your favorite childhood memory?",
+  "Do you talk to yourself?",
+  "Have you ever laughed at the wrong moment?",
+  "What is your go-to comfort food?",
+  "Do you believe in love at first sight?",
+  "Have you ever cried watching a movie?",
+  "What is your favorite festival?",
+  "Have you ever forgotten someone’s birthday?",
+  "What is your biggest pet peeve?",
+  "Do you prefer sunrise or sunset?",
+  "Have you ever danced in public?"
     
   ],
   medium: [
@@ -26,6 +41,21 @@ export const truths = {
     "Did you ever bunked school?",
     "Weirdest thing you've ever eaten?",
     "Top 3 weirdest things you've ever eaten?"
+  "Have you ever stalked someone on social media?",
+  "What is a lie you told that got you in trouble?",
+  "Have you ever had a crush on your best friend?",
+  "What’s something you did that you wish you could undo?",
+  "Have you ever been caught doing something embarrassing?",
+  "What’s your guilty pleasure?",
+  "Have you ever sent a message to the wrong person?",
+  "What’s the worst habit you have?",
+  "Have you ever judged someone wrongly?",
+  "What’s something you pretend to like but don’t?",
+  "Have you ever broken someone’s trust?",
+  "What’s the most childish thing you still do?",
+  "Have you ever ghosted someone?",
+  "What’s your biggest insecurity?",
+  "Have you ever lied in a relationship?"
   ],
   hard: [
     "What is something you've never told anyone?",
@@ -39,6 +69,22 @@ export const truths = {
     "What's your 🍆 size/ what size you like?",
     "What's your favorite type of foreplay?",
     "Share a fantasy that your loved one’s never heard before."
+  "Have you ever been attracted to someone you shouldn’t be?",
+  "What’s the darkest thought you’ve had?",
+  "Have you ever manipulated someone emotionally?",
+  "What’s a secret you’re afraid will come out?",
+  "Have you ever cheated or been tempted to?",
+  "What’s something you’ve done out of jealousy?",
+  "Have you ever had feelings for two people at once?",
+  "What’s the most intense attraction you’ve felt?",
+  "What’s something you regret doing in a relationship?",
+  "Have you ever lied to get closer to someone?",
+  "What’s your biggest emotional weakness?",
+  "Have you ever crossed a boundary you shouldn’t have?",
+  "What’s something you crave but won’t admit openly?",
+  "Have you ever had a forbidden crush?",
+  "What’s the most vulnerable moment of your life?"
+
     
   ]
 };
