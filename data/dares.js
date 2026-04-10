@@ -27,7 +27,7 @@ export const dares = {
     "Dance for 1 minute",
     "Do your best impression of a celebrity",
     "Eat a spoonful of a condiment (ketchup, mustard, etc.)",
-    "put your underpants on your head for the next 3 rounds.",
+    "Go to restroom and play the rest of the game without your underpants on.",
     "Tell a erotic while creating it for a minute.",
     "Do your best seductive dance for 30 seconds.",
     "kiss the next player on the cheek.",
