@@ -58,7 +58,7 @@ export const dares = {
     "Hold the next players 🍆 for next four rounds.",
     "Sit on the next players lap for 4 minute.",
     "Give the next player a passionate kiss on the neck.",
-    "cuddle the next player while rubbing their inner thigh for 1 minute.",
+    "cuddle the next player for 1 minute.",
     "play next 4 rounds topless.",
     "Kiss the next player on the lips.",
     "Kiss the next player on their back.",
