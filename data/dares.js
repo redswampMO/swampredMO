@@ -37,6 +37,7 @@ export const dares = {
     "Dance with the next player for 1 minut, romantically.",
     "Give head massage to the next person for a minute.",
     "Message someone randomly that you hate cheeze",
+    "Sit on the lap of the previous player for next 5 rounds."
     
     
 
@@ -56,13 +57,14 @@ export const dares = {
     "Describe your most memorable intimate experience in vivid detail.",
     "Perform a seductive dance for the next player.",
     "Hold eye contact with the next player for 30 seconds while whispering something naughty.",
-    "Hold the next players 🍆 for next four rounds.",
+    "Hold the next players 🍆 for next 4 rounds.",
     "Sit on the next players lap for 4 minute.",
     "Give the next player a passionate kiss on the neck.",
-    "cuddle the next player while rubbing their inner thigh for 1 minute.",
+    "cuddle the next player while rubbing their thigh for 1 minute.",
     "play next 4 rounds topless.",
     "Kiss the next player on the lips.",
-    "Kiss the next player on their belly button.",
-    "Put an ice cube in your underwear for one minute."
+    "Kiss the next player on their back.",
+    "Put an ice cube in your underwear for one minute.",
+    "Order a condom and convince the next person to wear it."
   ]
 };
